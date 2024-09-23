@@ -17,4 +17,9 @@
     <ProjectReference Include="..\BaseLibrary\BaseLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\Contracts\" />
+    <Folder Include="Services\Implementations\" />
+  </ItemGroup>
+
 </Project>
