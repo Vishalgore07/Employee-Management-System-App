@@ -124,7 +124,7 @@ namespace ServerLibrary.Repositories.Implementation
                 issuer: config.Value.Issuer,
                 audience: config.Value.Audience,
                 claims: userClaims,
-                expires: DateTime.Now.AddSeconds(10),
+                expires: DateTime.Now.AddSeconds(5),
                 signingCredentials: credentials
                 );
 
