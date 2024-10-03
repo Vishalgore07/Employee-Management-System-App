@@ -33,6 +33,18 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\DELL\\Desktop\\CTPL\\C#\\.NetLearning\\EmployeeManagementSystem\\Client\\wwwroot\\images\\background\\bg.png",
+      "PackagePath": "staticwebassets\\images\\background\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\CTPL\\C#\\.NetLearning\\EmployeeManagementSystem\\Client\\wwwroot\\images\\companyLogos\\logo.png",
+      "PackagePath": "staticwebassets\\images\\companyLogos\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\CTPL\\C#\\.NetLearning\\EmployeeManagementSystem\\Client\\wwwroot\\images\\companyLogos\\profile.jpg",
+      "PackagePath": "staticwebassets\\images\\companyLogos\\profile.jpg"
+    },
+    {
       "Id": "C:\\Users\\DELL\\Desktop\\CTPL\\C#\\.NetLearning\\EmployeeManagementSystem\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
